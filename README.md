@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif" alt="elhadratioth" /> </p>
+<p align="left"> <img height="200px" src="https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif" alt="elhadratioth" /> </p>
 
 <h1 align="center">Hi 👋, I'm EL HADRATI Othman</h1>
 <h3 align="center">An Enthusiastic Data Engineer and Full-Stack Student</h3>
