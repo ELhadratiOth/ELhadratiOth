@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elhadratioth&label=Profile%20views&color=0e75b6&style=flat" alt="elhadratioth" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elhadratioth" alt="elhadratioth" /></a> </p>
-
 
 - 📫 How to reach me **othmanelhadrati@gmail.com**
 
