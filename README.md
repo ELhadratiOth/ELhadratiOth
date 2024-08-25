@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm EL HADRATI Othman</h1>
 <h3 align="center">A Enthusiastic Data Engineer and Full-Stack Student</h3>
-<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fsimon-zerisenay&psig=AOvVaw2MWv8K1HG0W_K5V_3WXRU6&ust=1724643514276000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwiz88Pxm4-IAxUwuP0HHYTlCLcQjRx6BAgAEBc" alt="elhadratioth" /> </p>
+<p align="left"> <img src="https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif" alt="elhadratioth" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elhadratioth&label=Profile%20views&color=0e75b6&style=flat" alt="elhadratioth" /> </p>
 
