@@ -10,7 +10,7 @@
 
 <h3 align="left">Check my portfolio :</h3>
 <p align="left">
-<a href="https://www.0thman.tech" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=87836&format=png&color=000000" alt="https://www.0thman.tech" height="30" width="40" /></a>
+<a href="https://www.0thman.tech" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=AfM2kzPzTz6Q&format=png&color=000000" alt="https://www.0thman.tech" height="30" width="40" /></a>
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
