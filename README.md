@@ -9,14 +9,14 @@
 - 📫 How to reach me **othmanelhadrati@gmail.com**
 
 <p align="center" style="display: flex; align-items: center; ">
-  <span style="font-size: 1.5em; margin-right: 10px; margin-top: 10px">Check my portfolio :</span>
+  <div style="font-size: 1.5em; margin-right: 10px; margin-top: 10px">Check my portfolio :</div>
   <a href="https://www.0thman.tech" target="blank">
     <img src="https://img.icons8.com/?size=100&id=AfM2kzPzTz6Q&format=png&color=000000" alt="https://www.0thman.tech" height="40" width="40" />
   </a>
 </p>
 
 <p align="center" style="display: flex; align-items: center;">
-  <span style="font-size: 1.5em; margin-right: 10px; ; margin-top: 10px">Connect with me:</span>
+  <div style="font-size: 1.5em; margin-right: 10px; ; margin-top: 10px">Connect with me:</div>
   <a href="https://linkedin.com/in/othman-el-hadrati-91aa98243" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
   </a>
