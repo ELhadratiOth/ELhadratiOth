@@ -8,20 +8,18 @@
 
 - 📫 How to reach me **othmanelhadrati@gmail.com**
 
-<h3 align="left">Check my portfolio :</h3>
 <p align="left">
+  <h3 style="display: inline-block; margin-right: 10px;">Check my portfolio :</h3>
   <a href="https://www.0thman.tech" target="blank">
-    <img align="center" src="https://img.icons8.com/?size=100&id=AfM2kzPzTz6Q&format=png&color=000000" alt="https://www.0thman.tech" height="40" width="40" style="vertical-align: middle;"/>
+    <img align="center" src="https://img.icons8.com/?size=100&id=AfM2kzPzTz6Q&format=png&color=000000" alt="https://www.0thman.tech" height="40" width="40" />
   </a>
-  <span style="vertical-align: middle;">https://www.0thman.tech</span>
 </p>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
+  <h3 style="display: inline-block; margin-right: 10px;">Connect with me:</h3>
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/othman-el-hadrati-91aa98243/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" style="vertical-align: middle;" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
   </a>
-  <span style="vertical-align: middle;">https://www.linkedin.com/in/othman-el-hadrati-91aa98243/</span>
 </p>
 
 
