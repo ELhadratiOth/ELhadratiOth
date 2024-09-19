@@ -12,7 +12,7 @@
   <div style="font-size: 1.5em; margin-right: 10px; margin-top: 10px">Check my portfolio :</div>
    <div>  <a href="https://www.0thman.tech" target="blank">
     <img src="https://img.icons8.com/?size=100&id=AfM2kzPzTz6Q&format=png&color=000000" alt="https://www.0thman.tech" height="40" width="40" />
-  </a> </div>div> 
+  </a> </div>
  
 </p>
 
