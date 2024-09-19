@@ -8,7 +8,6 @@
 
 - 📫 How to reach me **othmanelhadrati@gmail.com**
 
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
   <div style="display: flex; align-items: center; margin: 0;">
     <div style="font-size: 1.5em; margin-right: 10px; margin-top: 10px;">Check my portfolio :</div>
     <div>
@@ -26,7 +25,7 @@
       </a>
     </div>
   </div>
-</div>
+
 
 
 
